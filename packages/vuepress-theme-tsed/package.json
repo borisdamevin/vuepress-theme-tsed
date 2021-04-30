@@ -25,7 +25,7 @@
     "@vuepress/plugin-medium-zoom": "^1.8.0",
     "@vuepress/plugin-nprogress": "1.7.1",
     "@vuepress/plugin-search": "1.2.0",
-    "@vuepress/theme-default": "1.7.1",
+    "@vuepress/theme-default": "1.8.2",
     "axios": "0.20.0",
     "fuse.js": "^6.4.6",
     "lodash": "^4.17.15",
